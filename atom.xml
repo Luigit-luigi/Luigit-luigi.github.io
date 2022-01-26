@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-01-21T15:17:40.352Z</updated>
+  <updated>2022-01-26T11:36:52.169Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>个人常用软件</title>
+    <link href="http://example.com/2022/01/26/%E4%B8%AA%E4%BA%BA%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6/"/>
+    <id>http://example.com/2022/01/26/%E4%B8%AA%E4%BA%BA%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6/</id>
+    <published>2022-01-26T10:21:39.000Z</published>
+    <updated>2022-01-26T11:36:52.169Z</updated>
+    
+    <content type="html"><![CDATA[<p>注意：本内容仅用于记录本人使用的软件。</p><p>若出现不喜软件请勿喷，谢谢合作。</p><span id="more"></span><h3 id="终端"><a href="#终端" class="headerlink" title="终端"></a>终端</h3><ul><li>Windows Terminal</li><li>MobaXterm</li><li>Tabby Terminal</li></ul><h3 id="笔记"><a href="#笔记" class="headerlink" title="笔记"></a>笔记</h3><ul><li>notepads(UWP)</li><li>typora</li><li>notion</li><li>sublime Text 3</li></ul><h3 id="编写代码"><a href="#编写代码" class="headerlink" title="编写代码"></a>编写代码</h3><ul><li><p>IntelliJ IDEA</p><ul><li>语言<ul><li>Java</li><li>python</li></ul></li><li>插件：Alibaba Java Coding Guidelines</li></ul></li><li><p>eclipse</p><ul><li>插件：Alibaba Java Coding Guidelines</li></ul></li><li><p>Visual Studio Code</p><ul><li><p>语言</p><ul><li>HTML</li><li>C(wsl-Ubuntu)</li><li>C++(wsl-Ubuntu)</li><li>java</li></ul></li><li><p>插件</p><ul><li><p>主题插件&amp;icon</p><ul><li><p>GitHub Theme</p></li><li><p>vscode-icons</p></li></ul></li><li><p>其他</p><table><thead><tr><th align="left">插件名</th><th align="left">作用</th></tr></thead><tbody><tr><td align="left">markdownlint<br />Markdown All in One<br />Markdown PDF</td><td align="left">规范markdown</td></tr><tr><td align="left">Path Intellisense</td><td align="left">路径提示</td></tr><tr><td align="left">C/C++ Extension Pack</td><td align="left">C/C++相关插件</td></tr><tr><td align="left">Code Runner</td><td align="left">运行多种语言的代码</td></tr><tr><td align="left">Draw.io Integration</td><td align="left">绘图工具</td></tr><tr><td align="left">Auto Rename Tag<br />ESLint<br />Prettier - Code formatter<br />Visual Studio IntelliCode<br />Vetur</td><td align="left">HTML相关</td></tr><tr><td align="left">Extension Pack for Java<br />Alibaba Java Coding Guidelines</td><td align="left">Java相关插件</td></tr><tr><td align="left">indent-rainbow</td><td align="left">缩进带有颜色</td></tr><tr><td align="left">Polacode-2020</td><td align="left">代码截图工具</td></tr><tr><td align="left">vscode-database<br />SQL Formatter</td><td align="left">数据库相关</td></tr></tbody></table></li></ul></li></ul></li></ul><h3 id="其他工具"><a href="#其他工具" class="headerlink" title="其他工具"></a>其他工具</h3><ul><li>geek</li><li>everything</li><li>Snipaste（UWP）</li><li>QuickLook（UWP）</li><li>Utools</li></ul>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;注意：本内容仅用于记录本人使用的软件。&lt;/p&gt;
+&lt;p&gt;若出现不喜软件请勿喷，谢谢合作。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="软件" scheme="http://example.com/categories/%E8%BD%AF%E4%BB%B6/"/>
+    
+    
+    <category term="常用软件" scheme="http://example.com/tags/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
   
   <entry>
     <title>主题配置</title>
